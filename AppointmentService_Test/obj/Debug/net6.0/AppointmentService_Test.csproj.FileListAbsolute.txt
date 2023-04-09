@@ -1,0 +1,338 @@
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\testhost.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.deps.json
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.runtimeconfig.json
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\appsettings.Development.json
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\appsettings.json
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.exe
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\testhost.exe
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.deps.json
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.runtimeconfig.json
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.pdb
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AutoFixture.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Azure.Core.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Azure.Identity.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Castle.Core.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Fare.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\FluentAssertions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Moq.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Memory.Data.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.abstractions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.assert.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.core.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\APBusinessLogic.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\APDataLayer.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\APModels.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\APBusinessLogic.pdb
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\APDataLayer.pdb
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\APModels.pdb
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.pdb
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.csproj.AssemblyReference.cache
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.GeneratedMSBuildEditorConfig.editorconfig
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.AssemblyInfoInputs.cache
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.AssemblyInfo.cs
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.csproj.CoreCompileInputs.cache
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.csproj.CopyComplete
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\refint\AppointmentService_Test.dll
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.pdb
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.genruntimeconfig.cache
+M:\TP-gateway-api-myfork\TP-Gateway-api\appointmentapi\AppointmentService_Test\obj\Debug\net6.0\ref\AppointmentService_Test.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\appsettings.Development.json
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\appsettings.json
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\testhost.exe
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\testhost.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.deps.json
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.runtimeconfig.json
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.exe
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.deps.json
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.runtimeconfig.json
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_Test.pdb
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AutoFixture.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Azure.Core.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Azure.Identity.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Castle.Core.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Fare.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\FluentAssertions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Moq.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Memory.Data.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.abstractions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.assert.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.core.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\APBusinessLogic.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\APDataLayer.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\APModels.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.dll
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\APBusinessLogic.pdb
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\APDataLayer.pdb
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\APModels.pdb
+M:\team organization\appointments-api\AppointmentService_Test\bin\Debug\net6.0\AppointmentService_API.pdb
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.csproj.AssemblyReference.cache
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.GeneratedMSBuildEditorConfig.editorconfig
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.AssemblyInfoInputs.cache
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.AssemblyInfo.cs
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.csproj.CoreCompileInputs.cache
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.csproj.CopyComplete
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.dll
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\refint\AppointmentService_Test.dll
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.pdb
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\AppointmentService_Test.genruntimeconfig.cache
+M:\team organization\appointments-api\AppointmentService_Test\obj\Debug\net6.0\ref\AppointmentService_Test.dll
