@@ -17,7 +17,7 @@ builder.Services.AddScoped<ILogic, Logic>();
 builder.Services.AddScoped<IEFRepo, AppointmentEFRepo>();
 /*
 var trainer_config = builder.Configuration.GetConnectionString("AppointmentService");*/
-builder.Services.AddDbContext<AppointmentServiceDbContext>(options => options.UseSqlServer("Server=tcp:appointmentservice.database.windows.net,1433;Initial Catalog=AppointmentServiceDb;Persist Security Info=False;User ID=Geff;Password=Geoffrey2001;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
+builder.Services.AddDbContext<AppointmentServiceDbContext>(options => options.UseSqlServer("Server=tcp:teamperseverance.database.windows.net,1433;Initial Catalog=appointmentsdb;Persist Security Info=False;User ID=manoj;Password=Team@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;"));
 
 
 builder.Services.AddCors(p => p.AddPolicy("corspolicy", build =>
