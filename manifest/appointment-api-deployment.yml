@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: appointment-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: appointment-api
+  template:
+    metadata:
+      labels:
+        app: appointment-api
+    spec:
+      containers:
+        - name: appointment-api
+          image: manoj1128/appointmentsapi:latest
+          imagePullPolicy: Always
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: 250m
+              memory: 256Mi
+          ports:
+            - containerPort: 80
+    

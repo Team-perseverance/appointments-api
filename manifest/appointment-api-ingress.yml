@@ -1,0 +1,75 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: appointment-api-ingress
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/use-regex: "true"
+spec:
+  ingressClassName: nginx
+  rules:
+  - http:
+      paths:
+      - path: /api/Appointment/GetAppointmentsByPatientId/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/AddAppointmentByPatient
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/UpdateStatusByDoctor/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/UpdateNurseIdByNurse/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/GetAppointmentsByDoctorId/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/GetAppointmentsByNurseId/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/GetAppointmentsByStatus/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/GetAppointmentsByStatusOne
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
+      - path: /api/Appointment/GetAppointmentsByStatusOne/?p*
+        pathType: Prefix
+        backend:
+          service:
+            name: appointment-api-service
+            port:
+              number: 80
