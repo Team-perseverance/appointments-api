@@ -95,6 +95,28 @@ namespace AppointmentService_API.Controllers
 
         }
 
+        [HttpGet("GetAppointmentsByPatientId")]
+        public IActionResult GetAppointmentsByPatientId(string patient_id)
+        {
+            try
+            {
+                var response = logic.GetAppointmentsByPatientId(patient_id);
+                if (response != null)
+                {
+                    return Ok(response);
+                }
+                else
+                {
+                    return BadRequest(response);
+                }
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
+
         [HttpGet("GetAppointmentsByNurseId")]
         public IActionResult GetAppointmentsByNurseId(string nurse_id)
         {
